@@ -1,12 +1,12 @@
 # Enterprise news product release management system
 A web application used to create corporate news and products. The source code is for learning only.
-## 目录
+## Content
 
 - [admin](#admin)
 - [db](#database)
 - [serve](#serve)
 - [web](#web)
-## 特点
+## Feature
 - User Authentication (JWT)
 - Create, delete, edit, view news
 - Create, delete, edit, view products
